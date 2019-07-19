@@ -1,0 +1,2 @@
+for cami in camis 
+cambia eso y escribi algo mas lindo a ver si me aparece
